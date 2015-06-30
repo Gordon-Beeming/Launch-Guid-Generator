@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23023.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launch Guid Generator", "Launch Guid Generator\Launch Guid Generator.csproj", "{3589BAF6-AA4B-4941-A912-9A1E5B244F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3589BAF6-AA4B-4941-A912-9A1E5B244F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3589BAF6-AA4B-4941-A912-9A1E5B244F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3589BAF6-AA4B-4941-A912-9A1E5B244F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3589BAF6-AA4B-4941-A912-9A1E5B244F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 9c6d23d8-eb8c-49f5-a39a-700f0f96b0fd
+	EndGlobalSection
+EndGlobal
